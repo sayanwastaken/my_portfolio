@@ -23,7 +23,7 @@ function ResumeNew() {
       <Container fluid className="resume-section">
         <Particle />
         <Row style={{ justifyContent: "center", position: "relative" }}>
-          <Button variant="primary" href="https://drive.google.com/drive/u/0/folders/1HZdTrrR5fKhDeSRmTaU3aaDw6--y5NR0" target="_blank">
+          <Button variant="primary" href="https://drive.google.com/file/d/1H7TM-JK1pIHc8-7nKv4tFC4x2wozgcMz/view?usp=drivesdk" target="_blank">
             <AiOutlineDownload />
             &nbsp;Download Resume
           </Button>
