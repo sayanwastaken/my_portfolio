@@ -17,7 +17,7 @@ const Projects = () => {
     {
       id: 1,
       project_name: "Insppired From Groww Website",
-      image: "/project_images/groww_ss.png",
+      image: "/project_images/groww_ss.PNG",
       project_desc:
         "An online stocks trading web app. Built using JS, Express js, Node js and MongoDB.",
       deploy_link: "https://groww-clone-u3.netlify.app/",
@@ -34,7 +34,7 @@ const Projects = () => {
     {
       id: 2,
       project_name: "Inspired From SnapDeal Website",
-      image: "/project_images/snapdeal_ss.png",
+      image: "/project_images/snapdeal_ss.PNG",
       project_desc:
         "SnapDeal is indian eCommerce lifestyle products-marketplace. Built using HTML, CSS and JS. ",
       deploy_link: "https://snapdeal-clone-u2.netlify.app/",
