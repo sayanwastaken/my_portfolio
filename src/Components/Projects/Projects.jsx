@@ -16,7 +16,7 @@ const Projects = () => {
   const projects = [
     {
       id: 1,
-      project_name: "Insppired From Groww Website",
+      project_name: "Inspired From Groww Website",
       image: "/project_images/groww_ss.PNG",
       project_desc:
         "An online stocks trading web app. Built using JS, Express js, Node js and MongoDB.",
@@ -36,7 +36,7 @@ const Projects = () => {
       project_name: "Inspired From SnapDeal Website",
       image: "/project_images/snapdeal_ss.PNG",
       project_desc:
-        "SnapDeal is indian eCommerce lifestyle products-marketplace. Built using HTML, CSS and JS. ",
+        "SnapDeal is an Indian eCommerce lifestyle products-marketplace. Built using HTML, CSS and JS. ",
       deploy_link: "https://snapdeal-clone-u2.netlify.app/",
       repo_link: "https://github.com/sayanwastaken/Snapdeal-Clone_Team36",
       tech_stack: [<FaHtml5 />, <FaCss3 />, <FaJs />],
