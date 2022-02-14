@@ -18,7 +18,7 @@ const Banner = () => {
           <P>
             A Skilled And Passionate Full Stack Developer From India.
             <br />
-            Checkout the thing I built 👇
+            Checkout the things I built 👇
           </P>
           <HeaderButtons>
             <A
