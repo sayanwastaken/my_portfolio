@@ -16,7 +16,7 @@ const Projects = () => {
   const projects = [
     {
       id: 1,
-      project_name: "Insppired From Groww Website",
+      project_name: "Inspired From Groww Website",
       image: "/project_images/groww_ss.PNG",
       project_desc:
         "An online stocks trading web app. Built using JS, Express js, Node js and MongoDB.",

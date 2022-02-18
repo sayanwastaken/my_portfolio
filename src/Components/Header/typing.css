@@ -16,13 +16,13 @@
 } */
 
 h2 {
-  color: #353a40;
+  color: #1362ff;
   font-size: 85px;
   position: relative;
   text-transform: uppercase;
   -webkit-text-stroke: 0.1vw #f7f7fe;
 }
-
+/* 
 h2::before {
   top: 0;
   left: 0;
@@ -35,7 +35,7 @@ h2::before {
   border-right: 1px solid #37b9f1;
   -webkit-text-stroke: 0.1vw #37b9f1;
   animation: animate 5s linear infinite;
-}
+} */
 
 @keyframes animate {
   0%,

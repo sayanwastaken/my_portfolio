@@ -21,13 +21,13 @@ export const Column = styled.div`
 
 export const Img = styled.img`
   padding: 30px;
-  width: 400px;
-  height: 400px;
+  width: 350px;
+  height: 350px;
   border-radius: 50%;
   margin: auto;
   justify-content: center;
   // border: 1px solid black;
-  @media (max-width: 445px) {
+  @media  (max-width: 445px) {
     /* margin-left: -35px; */
     /* width: 80%; */
     width: 350px;
@@ -35,7 +35,6 @@ export const Img = styled.img`
     margin: auto;
     /* justify-self: center; */
     justify-items: center;
-    justify-content: center/;
     /* padding : 0px; */
   }
 `;
