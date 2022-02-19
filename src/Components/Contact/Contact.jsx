@@ -93,9 +93,11 @@ const Contact = () => {
       <Common>
         <H1>Contact</H1>
       </Common>
+      <br />
+      <br />
       <ContactContainer>
-        <Column>
-          <ContactForm onSubmit={handleSend}>
+        {/* <Column> */}
+          {/* <ContactForm onSubmit={handleSend}>
             <InputInput1 required name="name" type="text" placeholder="Name" />
             <InputInput1
               required
@@ -110,8 +112,8 @@ const Contact = () => {
             ></InputInput2>
             <A value="Send">SEND</A>
             <ToastContainer />
-          </ContactForm>
-        </Column>
+          </ContactForm> */}
+        {/* </Column> */}
         <Column>
           <LinksCont>
             {footerData.map((item) => (

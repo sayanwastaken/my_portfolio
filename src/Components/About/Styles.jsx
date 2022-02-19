@@ -12,6 +12,7 @@ export const AboutDiv = styled.div`
 export const Column = styled.div`
   width: 50%;
   margin: auto;
+  /* border:1px solid red; */
   justify-content: center;
   @media (max-width: 870px) {
     width: 100%;
@@ -21,11 +22,13 @@ export const Column = styled.div`
 
 export const Img = styled.img`
   padding: 30px;
-  width: 350px;
+  width: 320px;
   height: 350px;
   border-radius: 50%;
   margin: auto;
   justify-content: center;
+  margin-left: 15%;
+  margin-bottom: 10%;
   // border: 1px solid black;
   @media  (max-width: 445px) {
     /* margin-left: -35px; */

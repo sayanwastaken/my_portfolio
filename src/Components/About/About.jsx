@@ -31,7 +31,7 @@ const About = () => {
       <br />
       <AboutDiv>
         <Column>
-          <Img src="/images/myImg.jpg" alt="my image" />
+          <Img src="/images/myimg.png" alt="my image" />
         </Column>
         <Column>
           <H1>About Me</H1>
